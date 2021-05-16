@@ -1,5 +1,5 @@
 # SmartFridge_GUI
-GUI builded using LVGL to a Smart Fridge System on Rocktech RK043FN02H—CT display using NXP OM13098 ARM M4. Project is part a Smart Fridge System, made 
+GUI builded using LVGL to a Smart Fridge System on Rocktech RK043FN02H—CT display using NXP OM13098. Project is part a Smart Fridge System, made 
 for the engineering work. 
 
 <h1>Screens</h1>
